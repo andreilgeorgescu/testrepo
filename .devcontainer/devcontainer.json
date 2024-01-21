@@ -1,4 +1,4 @@
 {
   "image": "ghcr.io/andreilgeorgescu/devcontainer-base:2",
-  "updateContentCommand": "touch test.txt",
+  "updateContentCommand": "bash .devcontainer/scripts/updateContentCommand.bash",
 }
