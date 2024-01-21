@@ -1,3 +1,4 @@
 {
-  "image": "ghcr.io/andreilgeorgescu/devcontainer-base:2"
+  "image": "ghcr.io/andreilgeorgescu/devcontainer-base:2",
+  "updateContentCommand": "touch test.txt",
 }
